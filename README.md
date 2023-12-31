@@ -1,7 +1,7 @@
 # Autonomous Garbage Collection Robot
 
 ## Overview
-Addressing India's escalating garbage crisis, this project introduces an Autonomous Garbage Collection Robot designed for efficient waste management. It's an innovative response to the challenges posed by traditional waste collection methods and aims to support the initiatives like Swachh Bharath Abhiyan.
+Addressing India's escalating garbage crisis, this project introduces an Autonomous Garbage Collection Robot designed for efficient waste management. It's an innovative response to the challenges posed by traditional waste collection methods and aims to support the initiatives like Swachh Bharath Abhiyan. This project was done in 2018
 
 ## Context
 Indian cities generate over 100 million tons of solid waste annually, and existing waste management programs are not sufficiently addressing this issue. Traditional garbage collection methods pose health risks to workers and are often inefficient. Moreover, the use of AI and robotics in waste management is limited.
